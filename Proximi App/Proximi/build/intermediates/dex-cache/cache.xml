@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_7511fc96b0c3b8eeb0c1227adfc44ad879baacec.jar" />
+    </item>
+    <item
+        jar="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_d70bde13a757444d0f8e55f90be62b6587c8cd45.jar" />
+    </item>
+    <item
+        jar="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_37beffb74425318fd23dbdf516d7f152fd9220b2.jar" />
+    </item>
+    <item
+        jar="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_4e6d785cacfab29a816e58fe19c086186e1158bb.jar" />
+    </item>
+    <item
+        jar="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_a8597a9cb71642640d1e7d1b3fbc0f71566ee219.jar" />
+    </item>
+    <item
+        jar="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_d8a4a05acec3565c103a73aa1c64baf847b1f7c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Anishys\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_ada04d59a9b9da755cb60ea61af68df9f5530f6e.jar" />
+    </item>
+    <item
+        jar="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\2nd sem\CS 670\project\proximiApp\Proximi\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_c5fc7cc236df5d6baf2b7f13629d6c5306240e2c.jar" />
+    </item>
+
+</items>
